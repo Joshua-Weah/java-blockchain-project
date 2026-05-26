@@ -22,8 +22,8 @@ A blockchain implementation in Java built from scratch, demonstrating core block
 
 ```bash
 # Clone the repo
-git clone https://github.com/Joshua-Weah/java-blockchain-project.git
-cd java-blockchain-project
+git clone https://github.com/Joshua-Weah/Java-Blockchain.git
+cd Java-Blockchain
 
 # Run
 mvn exec:java
